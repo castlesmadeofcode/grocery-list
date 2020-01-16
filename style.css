@@ -5,3 +5,7 @@
 #groceryList li {
     list-style-type: none;
 }
+
+.red-text {
+    color: red;
+}
