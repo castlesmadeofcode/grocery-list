@@ -1,0 +1,7 @@
+.groceriesHeader {
+    font-size: 5em;
+}
+
+#groceryList li {
+    list-style-type: none;
+}
