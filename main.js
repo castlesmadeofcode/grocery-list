@@ -19,7 +19,8 @@ groceriesHeader.classList.remove("groceriesHeader");
 const groceryList = document.querySelectorAll("#groceryList li");
 //loops through list and adds groceryHeader class to each list item
 for (let i=0; i<groceryList.length; i++) {
-    if (i === 1) {
-    groceryList[i].classList.add("groceriesHeader");
+    //  if (i === 1) {
+    // groceryList[i].classList.add("groceriesHeader");
+    // (only adds groceriesHeader to class to list item with index of 1)
     }    
 }
